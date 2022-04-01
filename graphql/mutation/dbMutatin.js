@@ -40,86 +40,86 @@ const exportDb = async () => {
   const orderProduct = await OrderProduct.find().lean();
 
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/Product.json'),
+    path.join(process.cwd(), './backup/Product.json'),
     JSON.stringify(product),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/Category.json'),
+    path.join(process.cwd(), './backup/Category.json'),
     JSON.stringify(category),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/category_Attribute.json'),
+    path.join(process.cwd(), './backup/category_Attribute.json'),
     JSON.stringify(category_Attribute),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/attributeOption.json'),
+    path.join(process.cwd(), './backup/attributeOption.json'),
     JSON.stringify(attributeOption),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/Category_Spec.json'),
+    path.join(process.cwd(), './backup/Category_Spec.json'),
     JSON.stringify(category_Spec),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/Product_AttributeOption.json'),
+    path.join(process.cwd(), './backup/Product_AttributeOption.json'),
     JSON.stringify(product_AttributeOption),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/Spec.json'),
+    path.join(process.cwd(), './backup/Spec.json'),
     JSON.stringify(spec),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/SpecOption.json'),
+    path.join(process.cwd(), './backup/SpecOption.json'),
     JSON.stringify(specOption),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/Product_SpecOption.json'),
+    path.join(process.cwd(), './backup/Product_SpecOption.json'),
     JSON.stringify(product_SpecOption),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/orderProduct.json'),
+    path.join(process.cwd(), './backup/orderProduct.json'),
     JSON.stringify(orderProduct),
   );
   fs.writeFileSync(
-    path.join(__dirname, '../../backup/order.json'),
+    path.join(process.cwd(), './backup/order.json'),
     JSON.stringify(order),
   );
 };
 
 const importDb = async () => {
   let AttributeRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/Attribute.json'),
+    path.join(process.cwd(), './backup/Attribute.json'),
   );
   let ProductRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/Product.json'),
+    path.join(process.cwd(), './backup/Product.json'),
   );
   let CategoryRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/Category.json'),
+    path.join(process.cwd(), './backup/Category.json'),
   );
   let Category_AttributeRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/Category_Attribute.json'),
+    path.join(process.cwd(), './backup/Category_Attribute.json'),
   );
   let AttributeOptionRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/AttributeOption.json'),
+    path.join(process.cwd(), './backup/AttributeOption.json'),
   );
   let Category_SpecRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/Category_Spec.json'),
+    path.join(process.cwd(), './backup/Category_Spec.json'),
   );
-  let SpecRaw = fs.readFileSync(path.join(__dirname, '../../backup/Spec.json'));
+  let SpecRaw = fs.readFileSync(path.join(process.cwd(), './backup/Spec.json'));
   let SpecOptionRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/SpecOption.json'),
+    path.join(process.cwd(), './backup/SpecOption.json'),
   );
   let Product_SpecOptionRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/Product_SpecOption.json'),
+    path.join(process.cwd(), './backup/Product_SpecOption.json'),
   );
   let OrderRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/Order.json'),
+    path.join(process.cwd(), './backup/Order.json'),
   );
   let OrderProductRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/OrderProduct.json'),
+    path.join(process.cwd(), './backup/OrderProduct.json'),
   );
 
   let Product_AttributeOptionRaw = fs.readFileSync(
-    path.join(__dirname, '../../backup/Product_AttributeOption.json'),
+    path.join(process.cwd(), './backup/Product_AttributeOption.json'),
   );
 
   let AttributeData = JSON.parse(AttributeRaw);
