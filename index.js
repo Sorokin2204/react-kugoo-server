@@ -59,7 +59,7 @@ async function start(app, httpServer) {
 
   app.use(graphqlUploadExpress({ maxFileSize: 10486000, maxFiles: 20 }));
   server.applyMiddleware({ app });
-  app.listen(5000, async () => {
+  app.listen(process.env.PORT || 4000, async () => {
     try {
       await mongoose.connect(dbString, {
         useNewUrlParser: true,
@@ -68,7 +68,7 @@ async function start(app, httpServer) {
       mongoose.connection.on('error', () => {
         console.log('Error Mongoose DB');
       });
-      console.log('server started on port 5000');
+      console.log(`server started on port ${process.env.PORT || 4000}`);
     } catch (error) {
       console.log('[ERR] ', error);
     }
