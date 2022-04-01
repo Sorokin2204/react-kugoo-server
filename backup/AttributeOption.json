@@ -1,0 +1,414 @@
+[
+  {
+    "_id": "621922db1ba36004d8d2a951",
+    "label": "Стандартная комплектация",
+    "slug": "standartnaya-komplektaciya",
+    "defaultPrice": 0,
+    "Attribute": "621922db1ba36004d8d2a94b",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922db1ba36004d8d2a956",
+    "label": "Настройка",
+    "slug": "nastrojka",
+    "defaultPrice": 0,
+    "Attribute": "621922db1ba36004d8d2a94b",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922db1ba36004d8d2a95b",
+    "label": "Гидроизоляция",
+    "slug": "gidroizolyaciya",
+    "defaultPrice": 3070,
+    "Attribute": "621922db1ba36004d8d2a94b",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922dc1ba36004d8d2a960",
+    "label": "Максимальная комплектация",
+    "slug": "maksimalnaya-komplektaciya",
+    "defaultPrice": 0,
+    "Attribute": "621922db1ba36004d8d2a94b",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922dc1ba36004d8d2a96a",
+    "label": "Без упаковки",
+    "slug": "bez-upakovki",
+    "defaultPrice": 0,
+    "Attribute": "621922dc1ba36004d8d2a965",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922dc1ba36004d8d2a96f",
+    "label": "Фиолетовый металлик",
+    "slug": "fioletovyj-metallik",
+    "defaultPrice": 1490,
+    "Attribute": "621922dc1ba36004d8d2a965",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922dc1ba36004d8d2a974",
+    "label": "Красный металлик",
+    "slug": "krasnyj-metallik",
+    "defaultPrice": 1490,
+    "Attribute": "621922dc1ba36004d8d2a965",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922dd1ba36004d8d2a979",
+    "label": "Розовая в горошек",
+    "slug": "rozovaya-v-goroshek",
+    "defaultPrice": 1490,
+    "Attribute": "621922dc1ba36004d8d2a965",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922dd1ba36004d8d2a97e",
+    "label": "Бежевая в горошеккккк",
+    "slug": "bezhevaya-v-goroshekkkkk",
+    "defaultPrice": 14900,
+    "Attribute": "621922dc1ba36004d8d2a965",
+    "defaultChecked": false,
+    "__v": 0,
+    "subLabel": "",
+    "isDelete": true
+  },
+  {
+    "_id": "621922dd1ba36004d8d2a988",
+    "label": "Стандартная гарантия 1 год",
+    "slug": "standartnaya-garantiya-1-god",
+    "defaultPrice": 0,
+    "Attribute": "621922dd1ba36004d8d2a983",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922dd1ba36004d8d2a98d",
+    "label": "Расширенная гарантия 2 года",
+    "slug": "rasshirennaya-garantiya-2-goda",
+    "defaultPrice": 4690,
+    "Attribute": "621922dd1ba36004d8d2a983",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922ea1ba36004d8d2aacf",
+    "label": "Шоссейная (базовая)",
+    "slug": "shossejnaya-(bazovaya)",
+    "defaultPrice": 0,
+    "Attribute": "621922ea1ba36004d8d2aaca",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922ea1ba36004d8d2aad4",
+    "label": "Внедорожная (с доп. комплектом базовых покрышек)",
+    "slug": "vnedorozhnaya-s-dop.-komplektom-bazovyh-pokryshek",
+    "defaultPrice": 4000,
+    "Attribute": "621922ea1ba36004d8d2aaca",
+    "defaultChecked": false,
+    "__v": 0,
+    "subLabel": null
+  },
+  {
+    "_id": "621922eb1ba36004d8d2aad9",
+    "label": "Внедорожная + установка (с доп. комплектом базовых покрышек)",
+    "slug": "vnedorozhnaya-+-ustanovka-(s-dop.-komplektom-bazovyh-pokryshek)",
+    "defaultPrice": 6000,
+    "Attribute": "621922ea1ba36004d8d2aaca",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922eb1ba36004d8d2aade",
+    "label": "Внедорожная + установка (без доп. комплекта базовых покрышек)",
+    "slug": "vnedorozhnaya-+-ustanovka-(bez-dop.-komplekta-bazovyh-pokryshek)",
+    "defaultPrice": 4000,
+    "Attribute": "621922ea1ba36004d8d2aaca",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922eb1ba36004d8d2aae3",
+    "label": "Внедорожная шипованная + установка (с доп. комплектом базовых покрышек)",
+    "slug": "vnedorozhnaya-shipovannaya-+-ustanovka-(s-dop.-komplektom-bazovyh-pokryshek)",
+    "defaultPrice": 7600,
+    "Attribute": "621922ea1ba36004d8d2aaca",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922eb1ba36004d8d2aae8",
+    "label": "Внедорожная шипованная + установка (без доп. комплекта базовых покрышек)",
+    "slug": "vnedorozhnaya-shipovannaya-+-ustanovka-(bez-dop.-komplekta-bazovyh-pokryshek)",
+    "defaultPrice": 5600,
+    "Attribute": "621922ea1ba36004d8d2aaca",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922f11ba36004d8d2ab81",
+    "label": "Внедорожная (базовая)",
+    "slug": "vnedorozhnaya-(bazovaya)",
+    "defaultPrice": 0,
+    "Attribute": "621922ea1ba36004d8d2aaca",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922f21ba36004d8d2ab86",
+    "label": "Внедорожная шипованная (с доп. комплектом базовых покрышек)",
+    "slug": "vnedorozhnaya-shipovannaya-(s-dop.-komplektom-bazovyh-pokryshek)",
+    "defaultPrice": 5600,
+    "Attribute": "621922ea1ba36004d8d2aaca",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621922f71ba36004d8d2ac11",
+    "label": "Гидроизоляция +",
+    "slug": "gidroizolyaciya-+",
+    "defaultPrice": 3850,
+    "Attribute": "621922db1ba36004d8d2a94b",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621923091ba36004d8d2ada8",
+    "label": "Шипованные покрышки",
+    "slug": "shipovannye-pokryshki",
+    "defaultPrice": 0,
+    "Attribute": "621923091ba36004d8d2ada3",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621923091ba36004d8d2adad",
+    "label": "Шипованные покрышки + базовые покрышки",
+    "slug": "shipovannye-pokryshki-+-bazovye-pokryshki",
+    "defaultPrice": 5400,
+    "Attribute": "621923091ba36004d8d2ada3",
+    "defaultChecked": false,
+    "__v": 0,
+    "isDelete": true
+  },
+  {
+    "_id": "621923091ba36004d8d2adb2",
+    "label": "Шипованные покрышки + установка + базовые покрышки",
+    "slug": "shipovannye-pokryshki-+-ustanovka-+-bazovye-pokryshki",
+    "defaultPrice": 7400,
+    "Attribute": "621923091ba36004d8d2ada3",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6219230a1ba36004d8d2adb7",
+    "label": "Шипованные покрышки + установка (без базовых покрышек)",
+    "slug": "shipovannye-pokryshki-+-ustanovka-(bez-bazovyh-pokryshek)",
+    "defaultPrice": 5400,
+    "Attribute": "621923091ba36004d8d2ada3",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6219237d1ba36004d8d2b693",
+    "label": "Настройка +",
+    "slug": "nastrojka-+",
+    "defaultPrice": 0,
+    "Attribute": "621922db1ba36004d8d2a94b",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621923851ba36004d8d2b722",
+    "label": "Только внедорожные шипованные",
+    "slug": "tolko-vnedorozhnye-shipovannye",
+    "defaultPrice": 0,
+    "Attribute": "621923851ba36004d8d2b71d",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "621923851ba36004d8d2b727",
+    "label": "Базовые внедорожные покрышки без шипов",
+    "slug": "bazovye-vnedorozhnye-pokryshki-bez-shipov",
+    "defaultPrice": 0,
+    "Attribute": "621923851ba36004d8d2b71d",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6239e3e15d4525d37f9c6f04",
+    "label": "Руль + Сидение",
+    "slug": "rul-sidenie",
+    "subLabel": "",
+    "defaultPrice": 3455,
+    "isDelete": false,
+    "Attribute": "6239e3e15d4525d37f9c6f03",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6239e3f25d4525d37f9c6f08",
+    "label": "Руль",
+    "slug": "rul",
+    "subLabel": "",
+    "defaultPrice": 2500,
+    "isDelete": false,
+    "Attribute": "6239e3e15d4525d37f9c6f03",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6239e3fd5d4525d37f9c6f0c",
+    "label": "Сидение",
+    "slug": "sidenie",
+    "subLabel": "",
+    "defaultPrice": 1440,
+    "isDelete": true,
+    "Attribute": "6239e3e15d4525d37f9c6f03",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "62403a879fa18f66f8102797",
+    "label": "Занчение 1",
+    "slug": "zanchenie-1",
+    "subLabel": "",
+    "defaultPrice": 222,
+    "isDelete": true,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "62403ae79fa18f66f810279e",
+    "label": "Значение 2",
+    "slug": "znachenie-2",
+    "subLabel": "",
+    "defaultPrice": 0,
+    "isDelete": true,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "62403b4e9fa18f66f81027a2",
+    "label": "Черный",
+    "slug": "chernyy",
+    "subLabel": "",
+    "defaultPrice": 0,
+    "isDelete": false,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6241c6481b2f4f8e8fd3b24f",
+    "label": "Красный",
+    "slug": "krasnyy",
+    "subLabel": "",
+    "defaultPrice": 0,
+    "isDelete": false,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6241c6651b2f4f8e8fd3b253",
+    "label": "Желтый",
+    "slug": "zheltyy",
+    "subLabel": "",
+    "defaultPrice": 0,
+    "isDelete": false,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6241c7031b2f4f8e8fd3b257",
+    "label": "Серый",
+    "slug": "seryy",
+    "subLabel": "",
+    "defaultPrice": 0,
+    "isDelete": false,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6241c7741b2f4f8e8fd3b25c",
+    "label": "Оражевый",
+    "slug": "orazhevyy",
+    "subLabel": "",
+    "defaultPrice": 0,
+    "isDelete": false,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6241c78d1b2f4f8e8fd3b260",
+    "label": "Пурпурный",
+    "slug": "purpurnyy",
+    "subLabel": "",
+    "defaultPrice": 43,
+    "isDelete": false,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6241c7a31b2f4f8e8fd3b264",
+    "label": "Черно-красный",
+    "slug": "cherno-krasnyy",
+    "subLabel": "",
+    "defaultPrice": 1000,
+    "isDelete": true,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6241ca609fb558e9c2686261",
+    "label": "Белый",
+    "slug": "belyy",
+    "subLabel": "",
+    "defaultPrice": 0,
+    "isDelete": false,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6241cb989fb558e9c268627d",
+    "label": "Розовый",
+    "slug": "rozovyy",
+    "subLabel": "",
+    "defaultPrice": 34,
+    "isDelete": false,
+    "Attribute": "62403a879fa18f66f8102796",
+    "defaultChecked": false,
+    "__v": 0
+  },
+  {
+    "_id": "6244868dd465cc9813e46612",
+    "label": "4234",
+    "slug": "4234",
+    "subLabel": "",
+    "defaultPrice": 432,
+    "isDelete": true,
+    "Attribute": "6244868dd465cc9813e46611",
+    "defaultChecked": false,
+    "__v": 0
+  }
+]

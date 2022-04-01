@@ -1,0 +1,81 @@
+[
+  {
+    "_id": "621922db1ba36004d8d2a94b",
+    "name": "Дополнительные услуги",
+    "slug": "dopolnitelnye-uslugi",
+    "AttributeOptions": [],
+    "__v": 0
+  },
+  {
+    "_id": "621922dc1ba36004d8d2a965",
+    "name": "Подарочная упаковка",
+    "slug": "podarochnaya-upakovka",
+    "AttributeOptions": [],
+    "__v": 0
+  },
+  {
+    "_id": "621922dd1ba36004d8d2a983",
+    "name": "Гарантия",
+    "slug": "garantiya",
+    "AttributeOptions": [],
+    "__v": 0
+  },
+  {
+    "_id": "621922ea1ba36004d8d2aaca",
+    "name": "Тип покрышки",
+    "slug": "tip-pokryshki",
+    "AttributeOptions": [],
+    "__v": 0
+  },
+  {
+    "_id": "621923091ba36004d8d2ada3",
+    "name": "Дополнительно",
+    "slug": "dopolnitelno",
+    "AttributeOptions": [],
+    "__v": 0
+  },
+  {
+    "_id": "621923851ba36004d8d2b71d",
+    "name": "Покрышки",
+    "slug": "pokryshki",
+    "AttributeOptions": [],
+    "__v": 0
+  },
+  {
+    "_id": "6239e3e15d4525d37f9c6f03",
+    "name": "Обшивка",
+    "slug": "obshivka",
+    "AttributeOptions": [
+      "6239e3e15d4525d37f9c6f04",
+      "6239e3f25d4525d37f9c6f08",
+      "6239e3fd5d4525d37f9c6f0c"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "62403a879fa18f66f8102796",
+    "name": "Цвет",
+    "slug": "cvet",
+    "AttributeOptions": [
+      "62403a879fa18f66f8102797",
+      "62403ae79fa18f66f810279e",
+      "62403b4e9fa18f66f81027a2",
+      "6241c6481b2f4f8e8fd3b24f",
+      "6241c6651b2f4f8e8fd3b253",
+      "6241c7031b2f4f8e8fd3b257",
+      "6241c7741b2f4f8e8fd3b25c",
+      "6241c78d1b2f4f8e8fd3b260",
+      "6241c7a31b2f4f8e8fd3b264",
+      "6241ca609fb558e9c2686261",
+      "6241cb989fb558e9c268627d"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6244868dd465cc9813e46611",
+    "name": "Новый аттрибут",
+    "slug": "novyy-attribut",
+    "AttributeOptions": ["6244868dd465cc9813e46612"],
+    "__v": 0
+  }
+]
