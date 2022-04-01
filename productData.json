@@ -1,0 +1,3557 @@
+[
+  {
+    "title": "Kugoo Kirin HX Plus",
+    "slug": "kugoo-kirin-hx-plus",
+    "sku": "2200000001117",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3070 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 4690 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "19 кг" },
+      { "label": "Мощность", "value": "249 W" },
+      { "label": "Аккумулятор", "value": "7,5 Ah x 2 36V" },
+      { "label": "Максимальная скорость", "value": "до 25 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 40 км*" },
+      { "label": "Время полной зарядки", "value": "10-12 часов" },
+      { "label": "Максимальная нагрузка", "value": "100 кг" },
+      {
+        "label": "Габариты (ДШВ), см",
+        "value": "В разложенном виде: 115/50/115\nВ сложенном виде: 115/50/44\n"
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Передний" },
+      {
+        "label": "Тормозная система",
+        "value": "Передняя рекуперативная, задняя дисковая"
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-kirin-hx-plus(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6464-6162-4131-b231-333538353138/-/contain/600x450/center/center/-/format/webp/6V7A6474_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6264-6335-4339-b264-663263376237/-/contain/600x450/center/center/-/format/webp/Frame_792.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3430-3537-4364-b465-363765313437/-/contain/600x450/center/center/-/format/webp/60.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6339-6134-4663-a262-353037663262/-/format/webp/61.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3762-6231-4266-b233-383264666663/-/format/webp/6V7A6491_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3264-6333-4339-b965-353063633733/-/format/webp/6V7A6484_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3863-6530-4038-a335-643735376164/-/format/webp/6V7A6487_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6337-6262-4336-b666-656430303461/-/format/webp/6V7A6486_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3332-6632-4664-a238-636332353764/-/format/webp/6V7A6490_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3433-3335-4166-b435-623164636465/-/format/webp/6V7A6482_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3134-3165-4336-b364-616231333465/-/format/webp/6V7A6489_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild6464-6162-4131-b231-333538353138/-/format/webp/6V7A6474_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-hx-plus(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild6264-6335-4339-b264-663263376237/-/format/webp/Frame_792.jpg"
+      }
+    ],
+    "price": "46 900"
+  },
+  {
+    "title": "Kugoo G1 Mini (X8)",
+    "slug": "kugoo-g1-mini-(x8)",
+    "sku": "2200000000675",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +4950 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 6390 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "32,5 кг" },
+      { "label": "Мощность", "value": "2х800 W" },
+      { "label": "Аккумулятор", "value": "18,2 Аh" },
+      { "label": "Максимальная скорость", "value": "до 50 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 60 км*" },
+      { "label": "Время полной зарядки", "value": "7-8 часов" },
+      { "label": "Максимальная нагрузка", "value": "130 кг" },
+      { "label": "Размер колес", "value": "8\"" },
+      { "label": "Тип колес", "value": "Литые" },
+      { "label": "Габариты (ДШВ), см", "value": "133/33/62" },
+      {
+        "label": "Подсветка",
+        "value": "Передняя фара, боковая подсветка, стоп-сигнал"
+      },
+      { "label": "Привод", "value": "Передний и задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-g1-mini-(x8)(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3165-3762-4632-b464-623436626362/-/contain/600x450/center/center/-/format/webp/32.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3262-3437-4961-b539-656332613764/-/contain/600x450/center/center/-/format/webp/Frame_727.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6463-6339-4338-b262-626634633362/-/contain/600x450/center/center/-/format/webp/21.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3532-6266-4333-b130-313037333737/-/format/webp/23.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3139-3962-4536-b231-633064646562/-/format/webp/6V7A1073_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3738-6664-4836-b035-613135333964/-/format/webp/6V7A1072_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6331-3266-4137-a538-386236356436/-/format/webp/6V7A1071_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6264-3132-4337-a638-616535623332/-/format/webp/6V7A1075_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3830-3135-4434-b764-636161366563/-/format/webp/6V7A1079_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3964-6434-4433-b638-333565343762/-/format/webp/6V7A1082_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3730-3363-4566-b037-393666376633/-/format/webp/6V7A1077_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3439-3134-4731-a563-633333653630/-/format/webp/6V7A1083_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3065-6531-4364-b737-646536373732/-/format/webp/6V7A1086_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6635-6165-4363-a330-643033623134/-/format/webp/6V7A1085_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild3638-3232-4561-a335-663166323664/-/format/webp/6V7A1092_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(15).jpg",
+        "url": "https://thumb.tildacdn.com/tild6634-3232-4264-a665-316334363733/-/format/webp/6V7A1098_copy_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(16).jpg",
+        "url": "https://thumb.tildacdn.com/tild3165-3762-4632-b464-623436626362/-/format/webp/32.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-mini-(x8)(17).jpg",
+        "url": "https://thumb.tildacdn.com/tild3262-3437-4961-b539-656332613764/-/format/webp/Frame_727.jpg"
+      }
+    ],
+    "price": "71 900"
+  },
+  {
+    "title": "Kugoo Kirin M4",
+    "slug": "kugoo-kirin-m4",
+    "sku": "2200000000026",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Тип покрышки",
+        "options": [
+          [
+            "Шоссейная (базовая)",
+            "Внедорожная (с доп. комплектом базовых покрышек) 4000 руб.",
+            "Внедорожная + установка (с доп. комплектом базовых покрышек) 6000 руб.",
+            "Внедорожная + установка (без доп. комплекта базовых покрышек) 4000 руб.",
+            "Внедорожная шипованная + установка (с доп. комплектом базовых покрышек) 7600 руб.",
+            "Внедорожная шипованная + установка (без доп. комплекта базовых покрышек) 5600 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 2990 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "22 кг" },
+      { "label": "Мощность", "value": "500 W" },
+      { "label": "Аккумулятор", "value": "11 Аh" },
+      { "label": "Максимальная скорость", "value": "до 40 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 30 км*" },
+      { "label": "Время полной зарядки", "value": "5-6 часов" },
+      { "label": "Максимальная нагрузка", "value": "140 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 113/86-116/60 В сложенном виде: 113/37/22 "
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-kirin-m4(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3565-6166-4434-a564-363962643165/-/contain/600x450/center/center/-/format/webp/6V7A6542_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3831-6533-4438-b338-616163373661/-/contain/600x450/center/center/-/format/webp/Frame_540.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6464-3736-4064-b763-633430303436/-/contain/600x450/center/center/-/format/webp/51.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3262-3661-4431-b630-643236363562/-/format/webp/52.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3530-3730-4930-b730-343637366634/-/format/webp/6V7A6517_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6462-6161-4637-b331-323761343134/-/format/webp/6V7A6500_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6163-3864-4361-b736-343135623164/-/format/webp/6V7A6506_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3564-3835-4833-a538-383331313464/-/format/webp/6V7A6496_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild6664-6434-4939-b530-306366633733/-/format/webp/6V7A6501_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6364-6637-4338-b665-343133383865/-/format/webp/6V7A6512_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3233-3864-4562-a262-623538623136/-/format/webp/6V7A6513_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3837-6134-4863-b965-333065393139/-/format/webp/6V7A6505_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3835-6536-4939-a336-383733653833/-/format/webp/6V7A6498_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild3565-6166-4434-a564-363962643165/-/format/webp/6V7A6542_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-m4(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild3831-6533-4438-b338-616163373661/-/format/webp/Frame_540.jpg"
+      }
+    ],
+    "price": "33 900"
+  },
+  {
+    "title": "Электросамокат",
+    "slug": "elektrosamokat",
+    "sku": "2200000000029",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Тип покрышки",
+        "options": [
+          [
+            "Внедорожная (базовая)",
+            "Внедорожная шипованная (с доп. комплектом базовых покрышек) 5600 руб.",
+            "Внедорожная шипованная + установка (с доп. комплектом базовых покрышек) 7600 руб.",
+            "Внедорожная шипованная + установка (без доп. комплекта базовых покрышек) 5600 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3590 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "25 кг" },
+      { "label": "Мощность", "value": "600 W" },
+      { "label": "Аккумулятор", "value": "13,5 Аh" },
+      { "label": "Максимальная скорость", "value": "до 45 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 40 км*" },
+      { "label": "Время полной зарядки", "value": "7 часов" },
+      { "label": "Максимальная нагрузка", "value": "160 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 113/94-130/60.5В сложенном виде: 113/45/22"
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "elektrosamokat(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3033-3232-4066-a234-346465386534/-/contain/600x450/center/center/-/format/webp/m4_pro.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6138-3938-4461-b436-613931656465/-/contain/600x450/center/center/-/format/webp/Frame_541.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3931-3030-4333-b136-393461393538/-/contain/600x450/center/center/-/format/webp/38.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3833-6238-4363-b439-653636343431/-/format/webp/Frame_779_2.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3130-3066-4331-a436-623636313235/-/format/webp/39.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3865-3364-4933-b734-393063646135/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6532-3932-4063-b065-663236656437/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6138-6564-4462-b063-373563623030/-/format/webp/6V7A4549_copy.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3838-3066-4331-b634-646561333735/-/format/webp/6V7A4554_copy.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3938-3462-4064-a666-356635346365/-/format/webp/6V7A4551_copy.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6530-3935-4133-a333-313661393839/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3138-3961-4462-b538-643838343864/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3332-3230-4662-b863-386261353936/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6263-3437-4537-b161-396235316663/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild6363-6438-4233-b065-653862376332/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(15).jpg",
+        "url": "https://thumb.tildacdn.com/tild3036-6537-4233-b863-326533663135/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(16).jpg",
+        "url": "https://thumb.tildacdn.com/tild6135-6136-4133-a665-333432306662/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(17).jpg",
+        "url": "https://thumb.tildacdn.com/tild3838-3561-4165-b964-383232626235/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(18).jpg",
+        "url": "https://thumb.tildacdn.com/tild3033-3232-4066-a234-346465386534/-/format/webp/m4_pro.jpg"
+      },
+      {
+        "fileName": "elektrosamokat(19).jpg",
+        "url": "https://thumb.tildacdn.com/tild6138-3938-4461-b436-613931656465/-/format/webp/Frame_541.jpg"
+      }
+    ],
+    "price": "40 900"
+  },
+  {
+    "title": "Kugoo M4 Pro 18 Ah",
+    "slug": "kugoo-m4-pro-18-ah",
+    "sku": "2200000000033",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция + 3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Тип покрышки",
+        "options": [
+          [
+            "Внедорожная (базовая)",
+            "Внедорожная шипованная (с доп. комплектом базовых покрышек) 5600 руб.",
+            "Внедорожная шипованная + установка (с доп. комплектом базовых покрышек) 7600 руб.",
+            "Внедорожная шипованная + установка (без доп. комплекта базовых покрышек) 5600 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3990 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "25 кг" },
+      { "label": "Мощность", "value": "600 W" },
+      { "label": "Аккумулятор", "value": "18 Аh" },
+      { "label": "Максимальная скорость", "value": "до 45 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 50 км*" },
+      { "label": "Время полной зарядки", "value": "8-9 часов" },
+      { "label": "Максимальная нагрузка", "value": "160 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Надувные, камерные" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 113/94-130/60.5 В сложенном виде: 113/45/22"
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-m4-pro-18-ah(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3037-3538-4862-b665-323635616364/-/contain/600x450/center/center/-/format/webp/m4_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6231-3638-4261-b531-666232616332/-/contain/600x450/center/center/-/format/webp/Frame_541.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3931-3030-4333-b136-393461393538/-/contain/600x450/center/center/-/format/webp/38.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3364-3430-4639-a635-303666356634/-/format/webp/Frame_779_2.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3130-3066-4331-a436-623636313235/-/format/webp/39.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3762-6134-4065-b130-343435646266/-/format/webp/01_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6131-6238-4636-b031-396666356234/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6265-3061-4238-b333-363330346464/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3162-6665-4632-b331-663639373230/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6138-6564-4462-b063-373563623030/-/format/webp/6V7A4549_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3838-3066-4331-b634-646561333735/-/format/webp/6V7A4554_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3938-3462-4064-a666-356635346365/-/format/webp/6V7A4551_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3135-3633-4330-a236-333035633431/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6231-6264-4034-a539-353062656139/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild6337-3535-4236-b638-633439326533/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(15).jpg",
+        "url": "https://thumb.tildacdn.com/tild3334-3136-4435-a538-343337353264/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(16).jpg",
+        "url": "https://thumb.tildacdn.com/tild6662-6235-4232-b434-346530383561/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(17).jpg",
+        "url": "https://thumb.tildacdn.com/tild3533-6335-4061-a561-333164336434/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(18).jpg",
+        "url": "https://thumb.tildacdn.com/tild3139-3039-4531-b630-316563306637/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(19).jpg",
+        "url": "https://thumb.tildacdn.com/tild3037-3538-4862-b665-323635616364/-/format/webp/m4_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah(20).jpg",
+        "url": "https://thumb.tildacdn.com/tild6231-3638-4261-b531-666232616332/-/format/webp/Frame_541.jpg"
+      }
+    ],
+    "price": "46 900"
+  },
+  {
+    "title": "Kugoo Kirin GX",
+    "slug": "kugoo-kirin-gx",
+    "sku": "2200000000015",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +6040 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 10990 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "44 кг" },
+      { "label": "Мощность", "value": "2500 W" },
+      { "label": "Аккумулятор", "value": "38,4 Ah" },
+      { "label": "Максимальная скорость", "value": "до 100 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 70 км*" },
+      { "label": "Время полной зарядки", "value": "9 часов" },
+      { "label": "Максимальная нагрузка", "value": "150 кг" },
+      { "label": "Размер колес", "value": "11\"" },
+      { "label": "Тип колес", "value": "Пневматические" },
+      { "label": "Габариты (ДШВ), см", "value": "125/64/120" },
+      {
+        "label": "Подсветка",
+        "value": "Передняя фара и задняя фара, LED подсветка сбоку"
+      },
+      { "label": "Привод", "value": "Полный" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-kirin-gx(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3230-3133-4966-a137-613362356665/-/contain/600x450/center/center/-/format/webp/krirn_gx.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6533-3837-4962-a564-633963353731/-/contain/600x450/center/center/-/format/webp/kirin_gx.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6566-6161-4930-b561-333038636430/-/contain/600x450/center/center/-/format/webp/Frame_561_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3265-3338-4438-b939-353637656363/-/format/webp/Frame_556_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3263-6539-4830-a138-376261373663/-/format/webp/Frame_555_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3461-6130-4766-b664-663630303463/-/format/webp/Frame_559_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3736-3838-4232-a365-656137633264/-/format/webp/Frame_560_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3565-6433-4664-b239-333831353033/-/format/webp/Frame_563_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild6430-3962-4631-b037-303764336238/-/format/webp/Frame_558_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3662-6338-4465-b638-336362306565/-/format/webp/Frame_557_1.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3230-3133-4966-a137-613362356665/-/format/webp/krirn_gx.jpg"
+      },
+      {
+        "fileName": "kugoo-kirin-gx(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild6533-3837-4962-a564-633963353731/-/format/webp/kirin_gx.jpg"
+      }
+    ],
+    "price": "109 900"
+  },
+  {
+    "title": "Kugoo G-Booster",
+    "slug": "kugoo-g-booster",
+    "sku": "2200000000012",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +6040 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 6590 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "33 кг" },
+      { "label": "Мощность", "value": "2х1200 W" },
+      { "label": "Аккумулятор", "value": "23 Аh" },
+      { "label": "Максимальная скорость", "value": "до 60 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 70 км*" },
+      { "label": "Время полной зарядки", "value": "9 часов" },
+      { "label": "Максимальная нагрузка", "value": "150 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      { "label": "Габариты (ДШВ), см", "value": "121/26/57" },
+      { "label": "Подсветка", "value": "Передняя фара, боковые габариты" },
+      { "label": "Привод", "value": "Передний и задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-g-booster(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6661-6661-4439-b132-616634373766/-/contain/600x450/center/center/-/format/webp/g-booster.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3565-3166-4663-a439-363330303937/-/contain/600x450/center/center/-/format/webp/Frame_544.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3266-3536-4035-a235-356430646461/-/contain/600x450/center/center/-/format/webp/Capture_00078.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3133-3038-4238-b136-646164383562/-/format/webp/Capture_00081.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3862-6162-4263-a165-376530396464/-/format/webp/Capture_00094.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6230-3739-4739-a462-363034633233/-/format/webp/Capture_00087.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3162-6466-4339-b930-663933303663/-/format/webp/Capture_00091.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6630-6437-4239-b865-633862396335/-/format/webp/Capture_00089.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3664-6232-4031-b065-616161643830/-/format/webp/Capture_00086.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3665-3665-4932-a434-633234643466/-/format/webp/Capture_00082.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6661-6661-4439-b132-616634373766/-/format/webp/g-booster.jpg"
+      },
+      {
+        "fileName": "kugoo-g-booster(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3565-3166-4663-a439-363330303937/-/format/webp/Frame_544.jpg"
+      }
+    ],
+    "price": "88 600"
+  },
+  {
+    "title": "Kugoo M5",
+    "slug": "kugoo-m5",
+    "sku": "2200000000035",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +4950 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Дополнительно",
+        "options": [
+          [
+            "Шипованные покрышки",
+            "Шипованные покрышки + базовые покрышки 5400 руб.",
+            "Шипованные покрышки + установка + базовые покрышки 7400 руб.",
+            "Шипованные покрышки + установка (без базовых покрышек) 5400 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 5490 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "31,5 кг" },
+      { "label": "Мощность", "value": "1000 W" },
+      { "label": "Аккумулятор", "value": "21 Аh" },
+      { "label": "Максимальная скорость", "value": "до 55 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 60 км*" },
+      { "label": "Время полной зарядки", "value": "до 9 часов" },
+      { "label": "Максимальная нагрузка", "value": "150 кг" },
+      { "label": "Размер колес", "value": "11\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      { "label": "Габариты (ДШВ), см", "value": "119/26/45" },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-m5(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6461-6362-4762-a564-613337303335/-/contain/600x450/center/center/-/format/webp/IMG_4201_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6533-6337-4061-b032-633337356338/-/contain/600x450/center/center/-/format/webp/Frame_542.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3336-3436-4432-b638-636132303565/-/contain/600x450/center/center/-/format/webp/27.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6461-3238-4361-a537-303863303137/-/contain/600x450/center/center/-/format/webp/26.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild6465-6662-4432-b466-623737383239/-/format/webp/IMG_4219_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3038-6563-4965-b765-386562346234/-/format/webp/IMG_4221_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6261-3162-4530-a536-626462396461/-/format/webp/IMG_4213_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6137-6130-4264-a563-346339336463/-/format/webp/IMG_4207_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3433-3130-4133-b933-336563366230/-/format/webp/IMG_4210_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6165-6231-4132-b365-363563356365/-/format/webp/IMG_4205_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3062-3139-4862-b061-363462663961/-/format/webp/IMG_4206_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3039-3230-4136-a235-633961303762/-/format/webp/IMG_4203_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild6461-6362-4762-a564-613337303335/-/format/webp/IMG_4201_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m5(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6533-6337-4061-b032-633337356338/-/format/webp/Frame_542.jpg"
+      }
+    ],
+    "price": "62 900"
+  },
+  {
+    "title": "Kugoo G-Max",
+    "slug": "kugoo-g-max",
+    "sku": "2200000000010",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3590 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "18 кг" },
+      { "label": "Мощность", "value": "500 W" },
+      { "label": "Аккумулятор", "value": "10 Аh" },
+      { "label": "Максимальная скорость", "value": "до 35 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 30 км*" },
+      { "label": "Время полной зарядки", "value": "5-7 часов" },
+      { "label": "Максимальная нагрузка", "value": "120 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Пневматические колеса" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 117/111/57 В сложенном виде: 117/52.5/57-21 "
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Передний" },
+      { "label": "Тормозная система", "value": "Рекуперация, задний дисковый" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-g-max(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3961-3761-4139-b233-646265333836/-/contain/600x450/center/center/-/format/webp/g-max.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6663-3431-4465-a133-623136323161/-/contain/600x450/center/center/-/format/webp/Frame_551.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3731-3537-4564-a233-336438663461/-/contain/600x450/center/center/-/format/webp/31.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3330-6164-4366-a435-316665623036/-/format/webp/43.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3965-6430-4537-b433-306265316665/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3035-3439-4236-b230-653165356561/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6266-6638-4934-a464-356663663734/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6662-3636-4666-b436-393930356530/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild6136-6264-4132-b639-323961656564/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3737-3764-4336-a438-666238643761/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6463-3033-4362-b166-383563633561/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3163-3631-4961-b065-323735393164/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3961-3761-4139-b233-646265333836/-/format/webp/g-max.jpg"
+      },
+      {
+        "fileName": "kugoo-g-max(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6663-3431-4465-a133-623136323161/-/format/webp/Frame_551.jpg"
+      }
+    ],
+    "price": "35 900"
+  },
+  {
+    "title": "Kugoo ES3",
+    "slug": "kugoo-es3",
+    "sku": "2200000000009",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3390 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "18 кг" },
+      { "label": "Мощность", "value": "500 W" },
+      { "label": "Аккумулятор", "value": "10.3 Аh" },
+      { "label": "Максимальная скорость", "value": "до 40 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 35 км*" },
+      { "label": "Амортизация", "value": "Нет" },
+      { "label": "Время полной зарядки", "value": "5-6 часов" },
+      { "label": "Максимальная нагрузка", "value": "120 кг" },
+      { "label": "Размер колес", "value": "12\"" },
+      { "label": "Тип колес", "value": "Надувные, пневматические" },
+      { "label": "Габариты (ДШВ), см", "value": "99/26/54" },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Задний" },
+      {
+        "label": "Тормозная система",
+        "value": "Рекуперация, передняя и задняя дисковая"
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-es3(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3036-3730-4339-b738-383864353261/-/contain/600x450/center/center/-/format/webp/es3.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6362-3139-4166-b235-653866313831/-/contain/600x450/center/center/-/format/webp/Frame_535.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3865-6437-4431-a638-326166346663/-/contain/600x450/center/center/-/format/webp/36.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6335-6336-4264-b032-333162333833/-/contain/600x450/center/center/-/format/webp/35.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3632-6634-4034-b065-356432623964/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3438-3233-4231-b331-353537386436/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6565-3738-4732-b135-663036366434/-/format/webp/6V7A4591_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3137-3463-4462-b933-333333653264/-/format/webp/6V7A4596_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3262-6164-4365-a637-653636386335/-/format/webp/6V7A4586_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3232-3066-4566-a636-336662313765/-/format/webp/6V7A4587_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6464-3730-4235-b764-383237373136/-/format/webp/6V7A4593_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild6532-3966-4339-b634-633936643866/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3239-3430-4332-b238-636536626537/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6666-3038-4163-a236-353963623664/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild3037-6635-4863-b963-633831356636/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(15).jpg",
+        "url": "https://thumb.tildacdn.com/tild3666-3434-4531-b365-366331383938/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(16).jpg",
+        "url": "https://thumb.tildacdn.com/tild3834-6337-4937-b531-363132383936/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(17).jpg",
+        "url": "https://thumb.tildacdn.com/tild6231-6263-4664-b761-646231613637/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(18).jpg",
+        "url": "https://thumb.tildacdn.com/tild3638-6564-4837-b166-346666636331/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(19).jpg",
+        "url": "https://thumb.tildacdn.com/tild3266-3032-4634-b465-623737616661/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(20).jpg",
+        "url": "https://thumb.tildacdn.com/tild3763-3063-4162-a235-353839613361/-/format/webp/M57_1.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(21).jpg",
+        "url": "https://thumb.tildacdn.com/tild6561-3637-4332-b965-636461303364/-/format/webp/6V7A4595_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(22).jpg",
+        "url": "https://thumb.tildacdn.com/tild3036-3730-4339-b738-383864353261/-/format/webp/es3.jpg"
+      },
+      {
+        "fileName": "kugoo-es3(23).jpg",
+        "url": "https://thumb.tildacdn.com/tild6362-3139-4166-b235-653866313831/-/format/webp/Frame_535.jpg"
+      }
+    ],
+    "price": "33 900"
+  },
+  {
+    "title": "Kugoo Max Speed",
+    "slug": "kugoo-max-speed",
+    "sku": "2200000000036",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Тип покрышки",
+        "options": [
+          [
+            "Внедорожная (базовая)",
+            "Внедорожная шипованная (с доп. комплектом базовых покрышек) 5600 руб.",
+            "Внедорожная шипованная + установка (с доп. комплектом базовых покрышек) 7600 руб.",
+            "Внедорожная шипованная + установка (без доп. комплекта базовых покрышек) 5600 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3090 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "23 кг" },
+      { "label": "Мощность", "value": "600 W" },
+      { "label": "Аккумулятор", "value": "11 Ah" },
+      { "label": "Максимальная скорость", "value": "до 50 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 35 км*" },
+      { "label": "Время полной зарядки", "value": "5-6 часов" },
+      { "label": "Максимальная нагрузка", "value": "150 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 112/85-120/54.5 В сложенном виде: 101/40/19.5"
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-max-speed(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6337-3666-4136-a264-343131316138/-/contain/600x450/center/center/-/format/webp/max_speed.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6139-3963-4462-b034-626339653433/-/contain/600x450/center/center/-/format/webp/Frame_539.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6164-3033-4531-b064-393338613637/-/contain/600x450/center/center/-/format/webp/50.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6362-3038-4333-a463-623937656431/-/contain/600x450/center/center/-/format/webp/49.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild6139-6562-4433-b832-653265636663/-/format/webp/IMG_4189_copy_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3539-3266-4163-a166-646432633166/-/format/webp/IMG_4184_copy_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3162-3031-4165-a437-643336326630/-/format/webp/IMG_4176_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3966-3165-4130-b137-396464316164/-/format/webp/IMG_4182_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild6436-6335-4564-a363-656564656133/-/format/webp/IMG_4179_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6264-3730-4539-b937-666561633563/-/format/webp/IMG_4172_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3234-3063-4165-a665-343633633265/-/format/webp/IMG_4162_copy_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3661-3030-4634-b633-323563343433/-/format/webp/IMG_4175_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild6337-3666-4136-a264-343131316138/-/format/webp/max_speed.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6139-3963-4462-b034-626339653433/-/format/webp/Frame_539.jpg"
+      }
+    ],
+    "price": "35 900"
+  },
+  {
+    "title": "Kugoo M2 Pro",
+    "slug": "kugoo-m2-pro",
+    "sku": "2200000000022",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3070 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 2790 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "14 кг" },
+      { "label": "Мощность", "value": "350 W" },
+      { "label": "Аккумулятор", "value": "9000 мАh" },
+      { "label": "Максимальная скорость", "value": "до 30 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 30 км*" },
+      { "label": "Время полной зарядки", "value": "до 5 часов" },
+      { "label": "Максимальная нагрузка", "value": "120 кг" },
+      { "label": "Размер колес", "value": "8,5\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 111/110/50.5 В сложенном виде: 111/35/50.5-19 "
+      },
+      { "label": "Подсветка", "value": " Передняя фара, боковые габариты " },
+      { "label": "Привод", "value": "Передний" },
+      {
+        "label": "Тормозная система",
+        "value": " Рекуперация, задний дисковый "
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-m2-pro(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6465-3039-4239-b262-373238653461/-/contain/600x450/center/center/-/format/webp/m2_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3161-3639-4238-b733-386338386635/-/contain/600x450/center/center/-/format/webp/Frame_538.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6536-3239-4635-a631-313836316637/-/contain/600x450/center/center/-/format/webp/54.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6237-3439-4565-a461-643761666463/-/format/webp/43.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3634-6164-4564-b234-356238646562/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3836-3831-4137-a438-363961366230/-/format/webp/6V7A4620_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6331-3365-4236-b261-386637653737/-/format/webp/6V7A4621_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3537-6630-4634-a439-396364653064/-/format/webp/6V7A4623_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3639-6663-4036-b066-666232616339/-/format/webp/6V7A4626_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3364-3931-4363-b039-336565343061/-/format/webp/6V7A4625_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3365-6165-4838-a130-613731626234/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3665-3461-4735-b232-346335373533/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3432-6362-4863-b362-643133336361/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild3566-6661-4536-b565-613437643062/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild3764-3464-4134-b335-663131373231/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(15).jpg",
+        "url": "https://thumb.tildacdn.com/tild3861-3737-4863-b139-343566353537/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(16).jpg",
+        "url": "https://thumb.tildacdn.com/tild3866-3439-4633-b665-363262666339/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(17).jpg",
+        "url": "https://thumb.tildacdn.com/tild6465-3039-4239-b262-373238653461/-/format/webp/m2_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-m2-pro(18).jpg",
+        "url": "https://thumb.tildacdn.com/tild3161-3639-4238-b733-386338386635/-/format/webp/Frame_538.jpg"
+      }
+    ],
+    "price": "31 900"
+  },
+  {
+    "title": "Kugoo M2",
+    "slug": "kugoo-m2",
+    "sku": "2200000000024",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 2350 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "19 кг" },
+      { "label": "Мощность", "value": "350 W" },
+      { "label": "Аккумулятор", "value": "8000 мАh" },
+      { "label": "Максимальная скорость", "value": "до 35 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 30 км*" },
+      { "label": "Время полной зарядки", "value": "4-5 часов" },
+      { "label": "Максимальная нагрузка", "value": "100 кг" },
+      { "label": "Размер колес", "value": "8\"" },
+      { "label": "Тип колес", "value": "Переднее надувное, заднее литое" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 101/90-118/54.5 В сложенном виде: 101/40/19.5 "
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Задняя барабанная" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-m2(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6235-6631-4066-b033-333166666638/-/contain/600x450/center/center/-/format/webp/m2.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6138-3366-4862-b863-306366663231/-/contain/600x450/center/center/-/format/webp/Frame_537.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3839-3834-4965-a364-316461623334/-/contain/600x450/center/center/-/format/webp/40.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3263-6661-4139-b766-633831663731/-/format/webp/41.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3335-3162-4238-b939-303966383762/-/format/webp/6V7A6816_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3838-3662-4266-a265-393261626237/-/format/webp/6V7A6817_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6338-3736-4237-b365-323062613732/-/format/webp/6V7A6821_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6531-3834-4239-b566-313337303230/-/format/webp/6V7A6827_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild6430-6563-4635-b931-633436656432/-/format/webp/6V7A6842_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6338-3366-4235-b733-303336386365/-/format/webp/6V7A6833_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3434-3565-4964-a531-653234353332/-/format/webp/6V7A6841_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3962-3761-4366-a462-623539643363/-/format/webp/6V7A6837_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3338-3436-4661-b465-636634386437/-/format/webp/6V7A6836_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6235-6631-4066-b033-333166666638/-/format/webp/m2.jpg"
+      },
+      {
+        "fileName": "kugoo-m2(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild6138-3366-4862-b863-306366663231/-/format/webp/Frame_537.jpg"
+      }
+    ],
+    "price": "26 900"
+  },
+  {
+    "title": "Kugoo X1",
+    "slug": "kugoo-x1",
+    "sku": "2200000000049",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3490 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "17 кг" },
+      { "label": "Мощность", "value": "600 W" },
+      { "label": "Аккумулятор", "value": "13 Аh" },
+      { "label": "Максимальная скорость", "value": "до 45 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 45 км*" },
+      { "label": "Время полной зарядки", "value": "7 часов" },
+      { "label": "Максимальная нагрузка", "value": "120 кг" },
+      { "label": "Размер колес", "value": "8\"" },
+      { "label": "Тип колес", "value": "Переднее надувное, заднее литое" },
+      { "label": "Габариты (ДШВ), см", "value": "109/28/47" },
+      { "label": "Подсветка", "value": "Передняя фара, боковые габариты" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Барабанная" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-x1(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6633-6536-4262-b739-303232626630/-/contain/600x450/center/center/-/format/webp/x1.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3434-6631-4337-a536-623838366632/-/contain/600x450/center/center/-/format/webp/Frame_546.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3737-3463-4431-b964-396463396438/-/contain/600x450/center/center/-/format/webp/55.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3261-3232-4231-b031-613264616233/-/contain/600x450/center/center/-/format/webp/56.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild6139-3638-4763-a234-366535356534/-/format/webp/Capture_00020.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6461-3362-4336-b832-333439633334/-/format/webp/Capture_00033.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3962-6465-4561-b730-393032363632/-/format/webp/Capture_00030.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6661-3464-4565-b532-663766343734/-/format/webp/Capture_00024.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild6262-3133-4666-b237-373861643837/-/format/webp/Capture_00021.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3835-6364-4331-a262-616330373563/-/format/webp/Capture_00025.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3261-3733-4930-b735-613065636334/-/format/webp/Capture_00027.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild6630-3939-4535-a363-346563383238/-/format/webp/Capture_00022.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild6633-6536-4262-b739-303232626630/-/format/webp/x1.jpg"
+      },
+      {
+        "fileName": "kugoo-x1(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild3434-6631-4337-a536-623838366632/-/format/webp/Frame_546.jpg"
+      }
+    ],
+    "price": "39 900"
+  },
+  {
+    "title": "Kugoo С1",
+    "slug": "kugoo-s1",
+    "sku": "2200000000050",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3290 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "21 кг" },
+      { "label": "Мощность", "value": "500 W" },
+      { "label": "Аккумулятор", "value": "11 Аh" },
+      { "label": "Максимальная скорость", "value": "до 45 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 35 км*" },
+      { "label": "Время полной зарядки", "value": "6 часов" },
+      { "label": "Максимальная нагрузка", "value": "130 кг" },
+      { "label": "Размер колес", "value": "12\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      { "label": "Габариты (ДШВ), см", "value": "117/24/61" },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-s1(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6638-3961-4434-a361-333936643132/-/contain/600x450/center/center/-/format/webp/1.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3630-3866-4431-a165-653333363333/-/contain/600x450/center/center/-/format/webp/Frame_536.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6634-6166-4534-a632-633561396539/-/contain/600x450/center/center/-/format/webp/6V7A0388_1.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3961-3036-4663-b139-316436386330/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3465-3832-4637-a561-623237646265/-/format/webp/6V7A0403_1.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3838-6238-4165-b261-323032306435/-/format/webp/6V7A0398_1.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3461-3838-4961-a664-386263626431/-/format/webp/6V7A0408_1.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3730-3439-4934-b133-663739626130/-/format/webp/6V7A0405_1-min.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild6638-3961-4434-a361-333936643132/-/format/webp/1.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3630-3866-4431-a165-653333363333/-/format/webp/Frame_536.jpg"
+      }
+    ],
+    "price": "37 900"
+  },
+  {
+    "title": "Kugoo G2 Pro",
+    "slug": "kugoo-g2-pro",
+    "sku": "2200000000014",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +6040 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 4890 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "25 кг" },
+      { "label": "Мощность", "value": "1000 W" },
+      { "label": "Аккумулятор", "value": "15 Аh" },
+      { "label": "Максимальная скорость", "value": "до 60 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 50 км*" },
+      { "label": "Время полной зарядки", "value": "7-8 часов" },
+      { "label": "Максимальная нагрузка", "value": "140 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Пневматические колеса" },
+      { "label": "Габариты (ДШВ), см", "value": "125/27/60" },
+      {
+        "label": "Подсветка",
+        "value": "Передняя фара, боковая подсветка, стоп-сигнал"
+      },
+      { "label": "Привод", "value": "Задний" },
+      {
+        "label": "Тормозная система",
+        "value": "Рекуперация, передний и задний дисковый"
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-g2-pro(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3139-3333-4263-a232-613130376238/-/contain/600x450/center/center/-/format/webp/g2_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3664-3930-4263-b938-313138386665/-/contain/600x450/center/center/-/format/webp/Frame_550.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3533-3035-4861-a439-383332666635/-/contain/600x450/center/center/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3562-3430-4364-a466-613562326539/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3338-3835-4265-a232-343230303838/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3431-6164-4331-b666-383865616430/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3563-6535-4166-b966-643531396635/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6533-3933-4335-a539-346333643763/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3436-6565-4930-b036-373934666231/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3131-3432-4266-b765-336337396163/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3633-3631-4862-b538-636265656134/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3261-3466-4430-b436-643562373234/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3139-3333-4263-a232-613130376238/-/format/webp/g2_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-g2-pro(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild3664-3930-4263-b938-313138386665/-/format/webp/Frame_550.jpg"
+      }
+    ],
+    "price": "56 900"
+  },
+  {
+    "title": "Kugoo C1 Pro",
+    "slug": "kugoo-c1-pro",
+    "sku": "2200000000001",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3790 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "33 кг" },
+      { "label": "Мощность", "value": "1000 W" },
+      { "label": "Аккумулятор", "value": "13 Аh" },
+      { "label": "Максимальная скорость", "value": "до 50 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 40 км*" },
+      { "label": "Время полной зарядки", "value": "7-8 часов" },
+      { "label": "Максимальная нагрузка", "value": "160 кг" },
+      { "label": "Размер колес", "value": "11\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      { "label": "Габариты (ДШВ), см", "value": "124/33/65" },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-c1-pro(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3166-6432-4961-b930-653263333438/-/contain/600x450/center/center/-/format/webp/6V7A6564_1.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3564-3637-4437-b036-653139393134/-/contain/600x450/center/center/-/format/webp/Frame_552.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3534-3065-4636-b233-306232393735/-/contain/600x450/center/center/-/format/webp/6V7A6544_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6338-6264-4364-b435-346563353761/-/contain/600x450/center/center/-/format/webp/6V7A6551_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3165-3436-4462-b238-353066636464/-/format/webp/6V7A6550_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6665-3533-4438-a565-623836363334/-/format/webp/6V7A6546_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6136-3233-4831-b763-316333373530/-/format/webp/6V7A6557_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6565-3430-4961-b338-343761643838/-/format/webp/6V7A6558_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3561-3164-4435-b163-653432386539/-/format/webp/6V7A6559_1_1.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3166-6432-4961-b930-653263333438/-/format/webp/6V7A6564_1.jpg"
+      },
+      {
+        "fileName": "kugoo-c1-pro(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3564-3637-4437-b036-653139393134/-/format/webp/Frame_552.jpg"
+      }
+    ],
+    "price": "43 900"
+  },
+  {
+    "title": "Kugoo С1 Plus",
+    "slug": "kugoo-s1-plus",
+    "sku": "2200000000568",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3390 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "21 кг" },
+      { "label": "Мощность", "value": "500 W" },
+      { "label": "Аккумулятор", "value": "11 Аh" },
+      { "label": "Максимальная скорость", "value": "до 45 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 35 км*" },
+      { "label": "Время полной зарядки", "value": "6 часов" },
+      { "label": "Максимальная нагрузка", "value": "130 кг" },
+      { "label": "Размер колес", "value": "12\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      { "label": "Габариты (ДШВ), см", "value": "117/24/61" },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-s1-plus(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3835-6530-4230-b337-366563316532/-/contain/600x450/center/center/-/format/webp/6V7A6537_1_2.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3963-6566-4639-b035-636661396466/-/contain/600x450/center/center/-/format/webp/Frame_545.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6335-6332-4161-b133-363365363931/-/contain/600x450/center/center/-/format/webp/29.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3031-6439-4331-a364-613934313661/-/contain/600x450/center/center/-/format/webp/28.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3666-3137-4565-b130-363132356235/-/format/webp/Frame_780.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6136-3932-4266-b065-373333643238/-/format/webp/Frame_781.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3462-3263-4234-b763-383164643965/-/format/webp/Frame_782.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6233-3263-4963-b236-393166386136/-/format/webp/Frame_785.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3935-6530-4738-b038-316332383634/-/format/webp/Frame_786.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6530-6561-4163-b439-373437616532/-/format/webp/Frame_783.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6537-6462-4639-a335-383463613162/-/format/webp/Frame_784.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3835-6530-4230-b337-366563316532/-/format/webp/6V7A6537_1_2.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3963-6566-4639-b035-636661396466/-/format/webp/Frame_545.jpg"
+      }
+    ],
+    "price": "38 900"
+  },
+  {
+    "title": "Kugoo G1",
+    "slug": "kugoo-g1",
+    "sku": "2200000000013",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +6040 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Тип покрышки",
+        "options": [
+          [
+            "Шоссейная (базовая)",
+            "Внедорожная (с доп. комплектом базовых покрышек) 4000 руб.",
+            "Внедорожная + установка (с доп. комплектом базовых покрышек) 6000 руб.",
+            "Внедорожная + установка (без доп. комплекта базовых покрышек) 4000 руб.",
+            "Внедорожная шипованная + установка (с доп. комплектом базовых покрышек) 7600 руб.",
+            "Внедорожная шипованная + установка (без доп. комплекта базовых покрышек) 5600 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 6990 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "33,5 кг" },
+      { "label": "Мощность", "value": "2х1000 W" },
+      { "label": "Аккумулятор", "value": "18,2 Аh" },
+      { "label": "Максимальная скорость", "value": "до 60 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 70 км*" },
+      { "label": "Время полной зарядки", "value": "4-8 часов" },
+      { "label": "Максимальная нагрузка", "value": "150 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      { "label": "Габариты (ДШВ), см", "value": "133/33/62" },
+      { "label": "Подсветка", "value": "Боковые габариты" },
+      { "label": "Привод", "value": "Передний и задний" },
+      {
+        "label": "Тормозная система",
+        "value": "Рекуперация, передняя и задняя дисковая"
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-g1(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3363-3362-4431-b630-343063346637/-/contain/600x450/center/center/-/format/webp/g1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6134-6630-4163-a162-646135323764/-/contain/600x450/center/center/-/format/webp/Frame_543.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3238-3432-4539-b631-626164343737/-/contain/600x450/center/center/-/format/webp/34.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3939-3130-4663-b338-343139633566/-/contain/600x450/center/center/-/format/webp/33.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3931-3936-4534-a435-373763336236/-/format/webp/IMG_4250.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6138-6230-4332-b164-303565383162/-/format/webp/IMG_4251.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3966-3763-4365-b532-313830613832/-/format/webp/6V7A4613_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3833-3764-4035-b330-356161363462/-/format/webp/IMG_4228.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3038-3434-4536-a332-303633633536/-/format/webp/IMG_4244.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3332-3132-4034-a131-383736366265/-/format/webp/IMG_4231.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6130-3233-4362-b934-353964646361/-/format/webp/IMG_4248.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild6663-6131-4233-a462-366636326432/-/format/webp/6V7A4608_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3235-6433-4335-a436-386636336136/-/format/webp/IMG_4230.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6636-6366-4630-b730-363735343437/-/format/webp/6V7A4610_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild3739-3765-4136-b831-613235303964/-/format/webp/6V7A4605_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(15).jpg",
+        "url": "https://thumb.tildacdn.com/tild3031-3065-4066-a562-366361313839/-/format/webp/6V7A4600_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(16).jpg",
+        "url": "https://thumb.tildacdn.com/tild6662-3935-4963-a335-326236623264/-/format/webp/6V7A4606_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(17).jpg",
+        "url": "https://thumb.tildacdn.com/tild3363-3362-4431-b630-343063346637/-/format/webp/g1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1(18).jpg",
+        "url": "https://thumb.tildacdn.com/tild6134-6630-4163-a162-646135323764/-/format/webp/Frame_543.jpg"
+      }
+    ],
+    "price": "79 900"
+  },
+  {
+    "title": "Kugoo S3 Pro",
+    "slug": "kugoo-s3-pro",
+    "sku": "2200000000044",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3070 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 2150 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "12 кг" },
+      { "label": "Мощность", "value": "350 W" },
+      { "label": "Аккумулятор", "value": "7,5 Аh" },
+      { "label": "Максимальная скорость", "value": "до 35 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 25 км*" },
+      { "label": "Амортизация", "value": "Передняя и задняя" },
+      { "label": "Время полной зарядки", "value": "3-4 часа" },
+      { "label": "Максимальная нагрузка", "value": "100 кг" },
+      { "label": "Размер колес", "value": "8\"" },
+      { "label": "Тип колес", "value": "Перфорированные " },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 96/94-108/45 В сложенном виде: 96/34/15 "
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "Передний" },
+      {
+        "label": "Тормозная система",
+        "value": " Передний рекупирационный, задний ножной "
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у, сумка"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-s3-pro(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6534-3563-4231-b632-366232633162/-/contain/600x450/center/center/-/format/webp/s3_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3533-3864-4133-b835-613533353636/-/contain/600x450/center/center/-/format/webp/Frame_533_1.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6533-6166-4932-b766-646165656337/-/contain/600x450/center/center/-/format/webp/44.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3462-3039-4832-b035-643332363939/-/contain/600x450/center/center/-/format/webp/48.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3762-3664-4832-a235-616266303237/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6432-3537-4137-a232-646233313738/-/format/webp/6V7A4582_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6362-6664-4637-b066-356465363762/-/format/webp/6V7A4576_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3161-6332-4639-a636-333034383830/-/format/webp/6V7A4577_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild6364-6136-4466-a635-356563353031/-/format/webp/6V7A4581_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3430-3162-4133-b535-343636643435/-/format/webp/6V7A4578_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6534-3563-4231-b632-366232633162/-/format/webp/s3_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-s3-pro(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3533-3864-4133-b835-613533353636/-/format/webp/Frame_533_1.jpg"
+      }
+    ],
+    "price": "24 500"
+  },
+  {
+    "title": "Kugoo HX",
+    "slug": "kugoo-hx",
+    "sku": "2200000000019",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3070 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 2750 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "13 кг" },
+      { "label": "Мощность", "value": "350 W" },
+      { "label": "Аккумулятор", "value": "6,4 Аh (Panasonic)" },
+      { "label": "Максимальная скорость", "value": "до 25 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 30 км*" },
+      { "label": "Время полной зарядки", "value": "4 часа" },
+      { "label": "Максимальная нагрузка", "value": "100 кг" },
+      { "label": "Размер колес", "value": "8,5\"" },
+      { "label": "Тип колес", "value": "Пневматические колеса" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 108/115/44 В сложенном виде: 108/44/44-17.5 "
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Передний" },
+      {
+        "label": "Тормозная система",
+        "value": "Передний электронный, задний дисковый"
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-hx(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3963-3038-4438-a330-616233383337/-/contain/600x450/center/center/-/format/webp/hx.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6265-3566-4534-a339-643564666637/-/contain/600x450/center/center/-/format/webp/Frame_549.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6264-3563-4930-b733-393665373835/-/contain/600x450/center/center/-/format/webp/68.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6461-6636-4166-b561-363861343037/-/contain/600x450/center/center/-/format/webp/67.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild6166-6139-4134-b135-323731366636/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6332-3030-4465-a238-616561306265/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3563-3862-4431-b032-663332353336/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3032-3564-4264-a234-383838306534/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3034-6636-4335-a338-643634303539/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6239-3731-4131-a132-613539633337/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6466-3938-4366-a365-316333373861/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3434-3965-4563-b637-363565643263/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3963-3038-4438-a330-616233383337/-/format/webp/hx.jpg"
+      },
+      {
+        "fileName": "kugoo-hx(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6265-3566-4534-a339-643564666637/-/format/webp/Frame_549.jpg"
+      }
+    ],
+    "price": "30 900"
+  },
+  {
+    "title": "Kugoo HX Pro",
+    "slug": "kugoo-hx-pro",
+    "sku": "22000000000017",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3070 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3290 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "14 кг" },
+      { "label": "Мощность", "value": "350 W" },
+      { "label": "Аккумулятор", "value": "12,8 Аh (Panasonic)" },
+      { "label": "Максимальная скорость", "value": "до 30 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 43 км*" },
+      { "label": "Время полной зарядки", "value": "5 часов" },
+      { "label": "Максимальная нагрузка", "value": "100 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Пневматические" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 108/116/42 В сложенном виде: 108/46/42-15.5 "
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Передний" },
+      {
+        "label": "Тормозная система",
+        "value": "Передний рекуперация, задний дисковый"
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-hx-pro(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3636-6238-4765-a537-623761353933/-/contain/600x450/center/center/-/format/webp/hx_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6630-3631-4837-b835-306635363431/-/contain/600x450/center/center/-/format/webp/Frame_548.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3261-3331-4561-a666-666261613334/-/contain/600x450/center/center/-/format/webp/59.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3634-3639-4263-a661-623637306338/-/contain/600x450/center/center/-/format/webp/58.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3639-6562-4530-a334-386265616432/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6236-3962-4135-b137-623565303638/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3933-6635-4061-a230-306136343132/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3663-3630-4134-b539-376264396663/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3161-6438-4161-a165-303963633031/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3337-3264-4164-a338-306262653961/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6164-6164-4062-a534-346531653435/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3636-6238-4765-a537-623761353933/-/format/webp/hx_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-hx-pro(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild6630-3631-4837-b835-306635363431/-/format/webp/Frame_548.jpg"
+      }
+    ],
+    "price": "37 500"
+  },
+  {
+    "title": "Kugoo S3",
+    "slug": "kugoo-s3",
+    "sku": "2200000000048",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3070 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 1850 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "12 кг" },
+      { "label": "Мощность", "value": "350 W" },
+      { "label": "Аккумулятор", "value": "6000 mАh" },
+      { "label": "Максимальная скорость", "value": "до 30 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 25 км*" },
+      { "label": "Амортизация", "value": "Передняя и задняя" },
+      { "label": "Время полной зарядки", "value": "3-4 часа" },
+      { "label": "Максимальная нагрузка", "value": "100 кг" },
+      { "label": "Размер колес", "value": "8\"" },
+      { "label": "Тип колес", "value": "Литые" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 96/94-108/45 В сложенном виде: 96/34/15"
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Передний" },
+      {
+        "label": "Тормозная система",
+        "value": "Задний ножной, передний рекуперация"
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у, сумка"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-s3(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3033-6538-4566-a234-303535326431/-/contain/600x450/center/center/-/format/webp/s3.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6234-6432-4262-b330-373462653263/-/contain/600x450/center/center/-/format/webp/Frame_532_1.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6264-6336-4266-a131-373139343136/-/contain/600x450/center/center/-/format/webp/46_2.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6464-3436-4935-b135-613432663135/-/contain/600x450/center/center/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild6533-3131-4830-b836-343162326533/-/format/webp/48.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3564-6161-4233-b130-393735653863/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6330-3537-4538-b233-616662336564/-/format/webp/6V7A4566_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6238-3730-4130-a139-356462333137/-/format/webp/6V7A4567_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3263-6165-4434-a130-626533383135/-/format/webp/6V7A4573_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6662-6266-4331-a434-333730343064/-/format/webp/6V7A4569_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3131-3932-4165-b834-383739346530/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild6161-3835-4932-a139-333635323533/-/format/webp/6V7A4564_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3231-3862-4165-b431-353237323165/-/format/webp/6V7A4563_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild3033-6538-4566-a234-303535326431/-/format/webp/s3.jpg"
+      },
+      {
+        "fileName": "kugoo-s3(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild6234-6432-4262-b330-373462653263/-/format/webp/Frame_532_1.jpg"
+      }
+    ],
+    "price": "20 900"
+  },
+  {
+    "title": "Kugoo S1",
+    "slug": "kugoo-s1",
+    "sku": "2200000000040",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3070 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 1790 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "11,9 кг" },
+      { "label": "Мощность", "value": "350 W" },
+      { "label": "Аккумулятор", "value": "6 Аh" },
+      { "label": "Максимальная скорость", "value": "до 25 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 25 км*" },
+      { "label": "Время полной зарядки", "value": "3-4 часа" },
+      { "label": "Максимальная нагрузка", "value": "100 кг" },
+      { "label": "Размер колес", "value": "8\"" },
+      { "label": "Тип колес", "value": "Перфорированные" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 110/108/44 В сложенном виде: 110/36/44-15"
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Задний" },
+      {
+        "label": "Тормозная система",
+        "value": "Задний рекуперативный + ножной"
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-s1(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3965-6464-4839-a565-333663663864/-/contain/600x450/center/center/-/format/webp/s1.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3963-3664-4864-a333-393139613966/-/contain/600x450/center/center/-/format/webp/Frame_547.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild6639-3335-4535-b563-363137613030/-/contain/600x450/center/center/-/format/webp/63.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3534-6137-4662-a661-306263353739/-/contain/600x450/center/center/-/format/webp/47.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3362-3636-4438-a639-373137616134/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3638-6161-4362-a363-396433323731/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3966-6533-4363-b664-356237323862/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6263-3531-4330-a138-343865376366/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3466-3639-4466-b733-313263656336/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild3833-3035-4635-a336-363833323638/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6635-6335-4535-b234-313430623164/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3136-6230-4438-b364-313233663239/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3965-6464-4839-a565-333663663864/-/format/webp/s1.jpg"
+      },
+      {
+        "fileName": "kugoo-s1(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild3963-3664-4864-a333-393139613966/-/format/webp/Frame_547.jpg"
+      }
+    ],
+    "price": "20 500"
+  },
+  {
+    "title": "Kugoo S1 Plus",
+    "slug": "kugoo-s1-plus",
+    "sku": "2200000000666",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка +0 р.",
+      "Гидроизоляция +3070 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 2290 руб."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "12,5 кг" },
+      { "label": "Мощность", "value": "350 W" },
+      { "label": "Аккумулятор", "value": "7,5 Аh 36 V" },
+      { "label": "Максимальная скорость", "value": "до 30 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 25 км*" },
+      { "label": "Время полной зарядки", "value": "4-5 часов" },
+      { "label": "Максимальная нагрузка", "value": "120 кг" },
+      { "label": "Размер колес", "value": "8\"" },
+      { "label": "Тип колес", "value": "Перфорированные" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 100/90-106/42.5 В сложенном виде: 100/36/21.5"
+      },
+      { "label": "Подсветка", "value": "Передняя фара, боковые габариты" },
+      { "label": "Привод", "value": "Передний" },
+      {
+        "label": "Тормозная система",
+        "value": "Передний рекуперативный + ножной"
+      },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-s1-plus(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6230-3539-4533-a266-613531633038/-/contain/600x450/center/center/-/format/webp/s1_plus.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3335-3638-4463-b663-303837616631/-/contain/600x450/center/center/-/format/webp/Frame_554.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3565-3365-4961-b735-306463383365/-/contain/600x450/center/center/-/format/webp/54.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6236-3761-4266-b736-393532326362/-/contain/600x450/center/center/-/format/webp/53.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3666-6530-4238-b932-656634623733/-/format/webp/371673_0.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3434-6636-4635-b361-336361663530/-/format/webp/371673_4.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6634-3632-4764-a439-313962643161/-/format/webp/371673_2.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3363-3630-4830-b339-396639313261/-/format/webp/371673_5.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3361-6139-4332-b861-626534306332/-/format/webp/371673_6.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6562-3865-4662-a531-643564393535/-/format/webp/371673_7.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3330-6535-4639-b562-323265386630/-/format/webp/371673_8.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3361-6236-4263-a137-636362363834/-/format/webp/371673_9.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild6164-3432-4662-a137-353538343264/-/format/webp/371673_10.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild6133-3433-4434-b865-383936396137/-/format/webp/371673_11.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild6230-3539-4533-a266-613531633038/-/format/webp/s1_plus.jpg"
+      },
+      {
+        "fileName": "kugoo-s1-plus(15).jpg",
+        "url": "https://thumb.tildacdn.com/tild3335-3638-4463-b663-303837616631/-/format/webp/Frame_554.jpg"
+      }
+    ],
+    "price": "22 900"
+  },
+  {
+    "title": "Kugoo M4 Pro 17 Ah",
+    "slug": "kugoo-m4-pro-17-ah",
+    "sku": "2200000000035",
+    "attributes": [
+      "Стандартная комплектация",
+      "Настройка + 0 р.",
+      "Гидроизоляция + 3850 р.",
+      "Максимальная комплектация"
+    ],
+    "attributesSelect": [
+      {
+        "name": "Тип покрышки",
+        "options": [
+          [
+            "Внедорожная (базовая)",
+            "Внедорожная шипованная (с доп. комплектом базовых покрышек) 5600 руб.",
+            "Внедорожная шипованная + установка (с доп. комплектом базовых покрышек) 7600 руб.",
+            "Внедорожная шипованная + установка (без доп. комплекта базовых покрышек) 5600 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3890 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "25 кг" },
+      { "label": "Мощность", "value": "600 W" },
+      { "label": "Аккумулятор", "value": "17000 мАh" },
+      { "label": "Максимальная скорость", "value": "до 55 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 45 км*" },
+      { "label": "Амортизация", "value": "Передняя и задняя" },
+      { "label": "Время полной зарядки", "value": "8 часов" },
+      { "label": "Максимальная нагрузка", "value": "150 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Надувные, камерные" },
+      {
+        "label": "Габариты (ДВШ), см",
+        "value": "В разложенном виде: 113/94-130/60.5В сложенном виде: 113/45/22"
+      },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у, ключи"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-m4-pro-17-ah(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6361-6261-4536-b730-623362386634/-/contain/600x450/center/center/-/format/webp/m4_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3037-3332-4431-b833-336331313166/-/contain/600x450/center/center/-/format/webp/Frame_541.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3931-3030-4333-b136-393461393538/-/contain/600x450/center/center/-/format/webp/38.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3033-6265-4930-b262-653664343739/-/contain/600x450/center/center/-/format/webp/Frame_779_2.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3130-3066-4331-a436-623636313235/-/format/webp/39.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3564-3336-4535-a236-336162376433/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3733-3164-4535-b837-356533383963/-/format/webp/07.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild6530-3935-4133-a333-313661393839/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3138-3961-4462-b538-643838343864/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6138-6564-4462-b063-373563623030/-/format/webp/6V7A4549_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild3838-3066-4331-b634-646561333735/-/format/webp/6V7A4554_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3938-3462-4064-a666-356635346365/-/format/webp/6V7A4551_copy.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3332-3230-4662-b863-386261353936/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild3933-6233-4436-b066-336634626232/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild3664-6430-4331-b037-343838356461/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(15).jpg",
+        "url": "https://thumb.tildacdn.com/tild3434-6433-4164-b030-313636326465/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(16).jpg",
+        "url": "https://thumb.tildacdn.com/tild3032-6637-4037-a636-666165616336/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(17).jpg",
+        "url": "https://thumb.tildacdn.com/tild3430-3264-4338-b631-383166353933/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(18).jpg",
+        "url": "https://thumb.tildacdn.com/tild3861-3731-4466-b238-653632633834/-/format/webp/photo.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(19).jpg",
+        "url": "https://thumb.tildacdn.com/tild6361-6261-4536-b730-623362386634/-/format/webp/m4_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-17-ah(20).jpg",
+        "url": "https://thumb.tildacdn.com/tild3037-3332-4431-b833-336331313166/-/format/webp/Frame_541.jpg"
+      }
+    ],
+    "price": "37 900"
+  },
+  {
+    "title": "Kugoo M4 Pro 18 Ah | Зимняя версия",
+    "slug": "kugoo-m4-pro-18-ah-or-zimnyaya-versiya",
+    "sku": "",
+    "attributes": [],
+    "attributesSelect": [
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 4629 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Покрышки",
+        "options": [
+          [
+            "Только внедорожные шипованные",
+            "Базовые внедорожные покрышки без шипов"
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "24 кг" },
+      { "label": "Мощность", "value": "600 W" },
+      { "label": "Аккумулятор", "value": "18 Аh" },
+      { "label": "Максимальная скорость", "value": "до 45 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 47 км*" },
+      { "label": "Время полной зарядки", "value": "8-9 часов" },
+      { "label": "Максимальная нагрузка", "value": "160 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Пневматические колеса" },
+      { "label": "Габариты (ДШВ), см", "value": "119/25/46" },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-m4-pro-18-ah-or-zimnyaya-versiya(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3866-3333-4366-b463-313531353836/-/contain/600x450/center/center/-/format/webp/m4_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah-or-zimnyaya-versiya(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3635-6437-4839-b934-373766363532/-/contain/600x450/center/center/-/format/webp/IMG_4125.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah-or-zimnyaya-versiya(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3762-3934-4138-b738-373564613834/-/contain/600x450/center/center/-/format/webp/IMG_4193_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah-or-zimnyaya-versiya(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild3132-6534-4465-a538-306238393965/-/contain/600x450/center/center/-/format/webp/IMG_4191_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah-or-zimnyaya-versiya(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild6362-3837-4431-b735-326338393333/-/format/webp/IMG_4148_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah-or-zimnyaya-versiya(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6664-6633-4364-a363-366133343862/-/format/webp/IMG_4136_1.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah-or-zimnyaya-versiya(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3866-3333-4366-b463-313531353836/-/format/webp/m4_pro.jpg"
+      },
+      {
+        "fileName": "kugoo-m4-pro-18-ah-or-zimnyaya-versiya(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3635-6437-4839-b934-373766363532/-/format/webp/IMG_4125.jpg"
+      }
+    ],
+    "price": "49 290"
+  },
+  {
+    "title": "Kugoo G1 | Зимняя версия",
+    "slug": "kugoo-g1-or-zimnyaya-versiya",
+    "sku": "",
+    "attributes": [],
+    "attributesSelect": [
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 7589 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Покрышки",
+        "options": [
+          [
+            "Только внедорожные шипованные",
+            "Базовые внедорожные покрышки без шипов"
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "35,5 кг" },
+      { "label": "Мощность", "value": "2х1000 W" },
+      { "label": "Аккумулятор", "value": "18,2 Аh" },
+      { "label": "Максимальная скорость", "value": "до 60 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 70 км*" },
+      { "label": "Время полной зарядки", "value": "4-8 часов" },
+      { "label": "Максимальная нагрузка", "value": "150 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      { "label": "Габариты (ДШВ), см", "value": "133/33/62" },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал" },
+      { "label": "Привод", "value": "Передний и задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild3730-3533-4531-a634-383435653963/-/contain/600x450/center/center/-/format/webp/g1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild3535-6334-4134-b361-316435383564/-/contain/600x450/center/center/-/format/webp/IMG_4225.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3763-3639-4334-b230-323331636663/-/contain/600x450/center/center/-/format/webp/IMG_4250_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6161-3439-4539-b537-363237663235/-/contain/600x450/center/center/-/format/webp/IMG_4251_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3335-3565-4365-b639-663366613538/-/format/webp/IMG_4248_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild3164-3034-4463-a166-616163396333/-/format/webp/IMG_4239_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild6634-3438-4166-a465-353936646161/-/format/webp/IMG_4241_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3330-6162-4637-b237-313865353061/-/format/webp/IMG_4237_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild3361-6230-4262-b361-613531613035/-/format/webp/IMG_4244_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6439-6634-4635-a164-366638306137/-/format/webp/IMG_4230_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(10).jpg",
+        "url": "https://thumb.tildacdn.com/tild6530-6138-4365-a639-623635316434/-/format/webp/IMG_4231_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(11).jpg",
+        "url": "https://thumb.tildacdn.com/tild3232-3863-4430-b337-343839646333/-/format/webp/IMG_4228_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(12).jpg",
+        "url": "https://thumb.tildacdn.com/tild3465-3535-4137-a166-376365333963/-/format/webp/IMG_4235_1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(13).jpg",
+        "url": "https://thumb.tildacdn.com/tild3730-3533-4531-a634-383435653963/-/format/webp/g1.jpg"
+      },
+      {
+        "fileName": "kugoo-g1-or-zimnyaya-versiya(14).jpg",
+        "url": "https://thumb.tildacdn.com/tild3535-6334-4134-b361-316435383564/-/format/webp/IMG_4225.jpg"
+      }
+    ],
+    "price": "80 290"
+  },
+  {
+    "title": "Kugoo Max Speed | Зимняя версия",
+    "slug": "kugoo-max-speed-or-zimnyaya-versiya",
+    "sku": "",
+    "attributes": [],
+    "attributesSelect": [
+      {
+        "name": "Гарантия",
+        "options": [
+          [
+            "Стандартная гарантия 1 год",
+            "Расширенная гарантия 2 года 3829 руб."
+          ]
+        ]
+      },
+      {
+        "name": "Покрышки",
+        "options": [
+          [
+            "Только внедорожные шипованные",
+            "Базовые внедорожные покрышки без шипов"
+          ]
+        ]
+      },
+      {
+        "name": "Подарочная упаковка",
+        "options": [
+          [
+            "Без упаковки",
+            "Фиолетовый металлик +1490 р.",
+            "Красный металлик +1490 р.",
+            "Розовая в горошек +1490 р.",
+            "Бежевая в горошек +1490 р."
+          ]
+        ]
+      }
+    ],
+    "specifications": [
+      { "label": "Масса нетто", "value": "23 кг" },
+      { "label": "Мощность", "value": "600 W" },
+      { "label": "Аккумулятор", "value": "11 Аh/13 Ah" },
+      { "label": "Максимальная скорость", "value": "до 40 км/ч*" },
+      { "label": "Максимальный пробег", "value": "до 40 км*" },
+      { "label": "Время полной зарядки", "value": "до 7 часов" },
+      { "label": "Максимальная нагрузка", "value": "140 кг" },
+      { "label": "Размер колес", "value": "10\"" },
+      { "label": "Тип колес", "value": "Надувные" },
+      { "label": "Габариты (ДШВ), см", "value": "112/28/46" },
+      { "label": "Подсветка", "value": "Передняя фара, стоп-сигнал, боковая" },
+      { "label": "Привод", "value": "Задний" },
+      { "label": "Тормозная система", "value": "Передняя и задняя дисковая" },
+      {
+        "label": "Комплектация",
+        "value": "Товарный чек, гарантийный талон, з/у"
+      },
+      { "label": "Гарантия", "value": "12 месяцев" }
+    ],
+    "images": [
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(0).jpg",
+        "url": "https://thumb.tildacdn.com/tild6337-3035-4435-a464-373937663232/-/contain/600x450/center/center/-/format/webp/max_speed.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(1).jpg",
+        "url": "https://thumb.tildacdn.com/tild6133-6265-4531-a464-666164663439/-/contain/600x450/center/center/-/format/webp/IMG_4156.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(2).jpg",
+        "url": "https://thumb.tildacdn.com/tild3061-3834-4336-a330-346632343538/-/contain/600x450/center/center/-/format/webp/IMG_4189_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(3).jpg",
+        "url": "https://thumb.tildacdn.com/tild6566-3132-4166-b437-666230366638/-/contain/600x450/center/center/-/format/webp/IMG_4184_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(4).jpg",
+        "url": "https://thumb.tildacdn.com/tild3736-3665-4530-b632-616538613333/-/format/webp/IMG_4176_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(5).jpg",
+        "url": "https://thumb.tildacdn.com/tild6435-6162-4939-b665-396635373432/-/format/webp/IMG_4175_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(6).jpg",
+        "url": "https://thumb.tildacdn.com/tild3534-6330-4535-a161-363963373935/-/format/webp/IMG_4182_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(7).jpg",
+        "url": "https://thumb.tildacdn.com/tild3461-6463-4564-b530-333462373538/-/format/webp/IMG_4179_1.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(8).jpg",
+        "url": "https://thumb.tildacdn.com/tild6337-3035-4435-a464-373937663232/-/format/webp/max_speed.jpg"
+      },
+      {
+        "fileName": "kugoo-max-speed-or-zimnyaya-versiya(9).jpg",
+        "url": "https://thumb.tildacdn.com/tild6133-6265-4531-a464-666164663439/-/format/webp/IMG_4156.jpg"
+      }
+    ],
+    "price": "39 290"
+  }
+]
