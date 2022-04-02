@@ -87,9 +87,9 @@ const exportDb = async () => {
 
 const importDb = () => {
   new Promise((resolve, reject) => {
-    // let AttributeRaw = fs.readFile(
-    //   path.join(process.cwd(), './backup/Attribute.json'),
-    // );
+    let AttributeRaw = fs.readFile(
+      path.join(process.cwd(), './backup/Attribute.json'),
+    );
     let ProductRaw = fs.readFile(
       path.join(process.cwd(), './backup/Product.json'),
     );
@@ -121,7 +121,7 @@ const importDb = () => {
     //   path.join(process.cwd(), './backup/Product_AttributeOption.json'),
     // );
     Promise.all([
-      // AttributeRaw,
+      AttributeRaw,
       ProductRaw,
       // CategoryRaw,
       // Category_AttributeRaw,
@@ -177,11 +177,11 @@ const importDb = () => {
             //       new Category_Attribute(Category_AttributeItem),
             //   ),
             // ),
-            // Attribute.insertMany(
-            //   AttributeData.map(
-            //     (AttributeItem) => new Attribute(AttributeItem),
-            //   ),
-            // ),
+            Attribute.insertMany(
+              AttributeData.map(
+                (AttributeItem) => new Attribute(AttributeItem),
+              ),
+            ),
             // AttributeOption.insertMany(
             //   AttributeOptionData.map(
             //     (AttributeOptionItem) =>
