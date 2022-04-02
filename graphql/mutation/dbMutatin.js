@@ -87,39 +87,39 @@ const exportDb = async () => {
 
 const importDb = () => {
   new Promise((resolve, reject) => {
-    let AttributeRaw = fs.readFile(
-      path.join(process.cwd(), './backup/Attribute.json'),
-    );
+    // let AttributeRaw = fs.readFile(
+    //   path.join(process.cwd(), './backup/Attribute.json'),
+    // );
     let ProductRaw = fs.readFile(
       path.join(process.cwd(), './backup/Product.json'),
     );
-    let CategoryRaw = fs.readFile(
-      path.join(process.cwd(), './backup/Category.json'),
-    );
-    let Category_AttributeRaw = fs.readFile(
-      path.join(process.cwd(), './backup/Category_Attribute.json'),
-    );
-    let AttributeOptionRaw = fs.readFile(
-      path.join(process.cwd(), './backup/AttributeOption.json'),
-    );
-    let Category_SpecRaw = fs.readFile(
-      path.join(process.cwd(), './backup/Category_Spec.json'),
-    );
-    let SpecRaw = fs.readFile(path.join(process.cwd(), './backup/Spec.json'));
-    let SpecOptionRaw = fs.readFile(
-      path.join(process.cwd(), './backup/SpecOption.json'),
-    );
-    let Product_SpecOptionRaw = fs.readFile(
-      path.join(process.cwd(), './backup/Product_SpecOption.json'),
-    );
-    let OrderRaw = fs.readFile(path.join(process.cwd(), './backup/Order.json'));
-    let OrderProductRaw = fs.readFile(
-      path.join(process.cwd(), './backup/OrderProduct.json'),
-    );
+    // let CategoryRaw = fs.readFile(
+    //   path.join(process.cwd(), './backup/Category.json'),
+    // );
+    // let Category_AttributeRaw = fs.readFile(
+    //   path.join(process.cwd(), './backup/Category_Attribute.json'),
+    // );
+    // let AttributeOptionRaw = fs.readFile(
+    //   path.join(process.cwd(), './backup/AttributeOption.json'),
+    // );
+    // let Category_SpecRaw = fs.readFile(
+    //   path.join(process.cwd(), './backup/Category_Spec.json'),
+    // );
+    // let SpecRaw = fs.readFile(path.join(process.cwd(), './backup/Spec.json'));
+    // let SpecOptionRaw = fs.readFile(
+    //   path.join(process.cwd(), './backup/SpecOption.json'),
+    // );
+    // let Product_SpecOptionRaw = fs.readFile(
+    //   path.join(process.cwd(), './backup/Product_SpecOption.json'),
+    // );
+    // let OrderRaw = fs.readFile(path.join(process.cwd(), './backup/Order.json'));
+    // let OrderProductRaw = fs.readFile(
+    //   path.join(process.cwd(), './backup/OrderProduct.json'),
+    // );
 
-    let Product_AttributeOptionRaw = fs.readFile(
-      path.join(process.cwd(), './backup/Product_AttributeOption.json'),
-    );
+    // let Product_AttributeOptionRaw = fs.readFile(
+    //   path.join(process.cwd(), './backup/Product_AttributeOption.json'),
+    // );
     Promise.all([
       AttributeRaw,
       ProductRaw,
@@ -149,83 +149,83 @@ const importDb = () => {
           OrderProductResault,
           Product_AttributeOptionResault,
         ]) => {
-          let AttributeData = JSON.parse(AttributeResault);
+          // let AttributeData = JSON.parse(AttributeResault);
           let ProductData = JSON.parse(ProductResault);
-          let CategoryData = JSON.parse(CategoryResault);
-          let Category_AttributeData = JSON.parse(Category_AttributeResault);
-          let AttributeOptionData = JSON.parse(AttributeOptionResault);
-          let Category_SpecData = JSON.parse(Category_SpecResault);
-          let Product_AttributeOptionData = JSON.parse(
-            Product_AttributeOptionResault,
-          );
-          let SpecData = JSON.parse(SpecResault);
-          let SpecOptionData = JSON.parse(SpecOptionResault);
-          let Product_SpecOptionData = JSON.parse(Product_SpecOptionResault);
-          let OrderData = JSON.parse(OrderResault);
-          let OrderProductData = JSON.parse(OrderProductResault);
+          // let CategoryData = JSON.parse(CategoryResault);
+          // let Category_AttributeData = JSON.parse(Category_AttributeResault);
+          // let AttributeOptionData = JSON.parse(AttributeOptionResault);
+          // let Category_SpecData = JSON.parse(Category_SpecResault);
+          // let Product_AttributeOptionData = JSON.parse(
+          //   Product_AttributeOptionResault,
+          // );
+          // let SpecData = JSON.parse(SpecResault);
+          // let SpecOptionData = JSON.parse(SpecOptionResault);
+          // let Product_SpecOptionData = JSON.parse(Product_SpecOptionResault);
+          // let OrderData = JSON.parse(OrderResault);
+          // let OrderProductData = JSON.parse(OrderProductResault);
 
           Promise.all([
             Product.insertMany(
               ProductData.map((product) => new Product(product)),
             ).catch((err) => console.log(err)),
-            Category.insertMany(
-              CategoryData.map((CategoryItem) => new Category(CategoryItem)),
-            ),
-            Category_Attribute.insertMany(
-              Category_AttributeData.map(
-                (Category_AttributeItem) =>
-                  new Category_Attribute(Category_AttributeItem),
-              ),
-            ),
-            Attribute.insertMany(
-              AttributeData.map(
-                (AttributeItem) => new Attribute(AttributeItem),
-              ),
-            ),
-            AttributeOption.insertMany(
-              AttributeOptionData.map(
-                (AttributeOptionItem) =>
-                  new AttributeOption(AttributeOptionItem),
-              ),
-            ),
-            Category_Spec.insertMany(
-              Category_SpecData.map(
-                (Category_SpecItem) => new Category_Spec(Category_SpecItem),
-              ),
-            ),
-            Product_AttributeOption.insertMany(
-              Product_AttributeOptionData.map(
-                (Product_AttributeOptionItem) =>
-                  new Product_AttributeOption(Product_AttributeOptionItem),
-              ),
-            ),
-            Spec.insertMany(SpecData.map((SpecItem) => new Spec(SpecItem))),
-            SpecOption.insertMany(
-              SpecOptionData.map(
-                (SpecOptionItem) => new SpecOption(SpecOptionItem),
-              ),
-            ),
-            Product_SpecOption.insertMany(
-              Product_SpecOptionData.map(
-                (Product_SpecOptionItem) =>
-                  new Product_SpecOption(Product_SpecOptionItem),
-              ),
-            ),
-            Order.insertMany(
-              OrderData.map((OrderItem) => new Order(OrderItem)),
-            ),
-            OrderProduct.insertMany(
-              OrderProductData.map(
-                (OrderProductItem) => new OrderProduct(OrderProductItem),
-              ),
-            ),
+            // Category.insertMany(
+            //   CategoryData.map((CategoryItem) => new Category(CategoryItem)),
+            // ),
+            // Category_Attribute.insertMany(
+            //   Category_AttributeData.map(
+            //     (Category_AttributeItem) =>
+            //       new Category_Attribute(Category_AttributeItem),
+            //   ),
+            // ),
+            // Attribute.insertMany(
+            //   AttributeData.map(
+            //     (AttributeItem) => new Attribute(AttributeItem),
+            //   ),
+            // ),
+            // AttributeOption.insertMany(
+            //   AttributeOptionData.map(
+            //     (AttributeOptionItem) =>
+            //       new AttributeOption(AttributeOptionItem),
+            //   ),
+            // ),
+            // Category_Spec.insertMany(
+            //   Category_SpecData.map(
+            //     (Category_SpecItem) => new Category_Spec(Category_SpecItem),
+            //   ),
+            // ),
+            // Product_AttributeOption.insertMany(
+            //   Product_AttributeOptionData.map(
+            //     (Product_AttributeOptionItem) =>
+            //       new Product_AttributeOption(Product_AttributeOptionItem),
+            //   ),
+            // ),
+            // Spec.insertMany(SpecData.map((SpecItem) => new Spec(SpecItem))),
+            // SpecOption.insertMany(
+            //   SpecOptionData.map(
+            //     (SpecOptionItem) => new SpecOption(SpecOptionItem),
+            //   ),
+            // ),
+            // Product_SpecOption.insertMany(
+            //   Product_SpecOptionData.map(
+            //     (Product_SpecOptionItem) =>
+            //       new Product_SpecOption(Product_SpecOptionItem),
+            //   ),
+            // ),
+            // Order.insertMany(
+            //   OrderData.map((OrderItem) => new Order(OrderItem)),
+            // ),
+            // OrderProduct.insertMany(
+            //   OrderProductData.map(
+            //     (OrderProductItem) => new OrderProduct(OrderProductItem),
+            //   ),
+            // ),
           ])
             .then(() => resolve())
-            .catch(() => reject());
+            .catch((err) => reject(err));
         },
       )
-      .catch(() => {
-        reject();
+      .catch((err) => {
+        reject(err);
       });
   });
 };
@@ -234,7 +234,7 @@ const dbMutation = {
   resetDatabase: async () => {
     try {
       await mongoose.connection.dropDatabase();
-      importDb();
+      await importDb();
     } catch (error) {
       console.log(error);
     }
