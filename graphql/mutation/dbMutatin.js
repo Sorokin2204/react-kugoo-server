@@ -97,7 +97,7 @@ const importDb = () => {
       path.join(process.cwd(), './backup/Category.json'),
     );
     let Category_AttributeRaw = fs.readFile(
-      path.join(process.cwd(), './backup/Category_Attribute.json'),
+      path.join(process.cwd(), './backup/category_Attribute.json'),
     );
     let AttributeOptionRaw = fs.readFile(
       path.join(process.cwd(), './backup/AttributeOption.json'),
