@@ -121,18 +121,18 @@ const importDb = () => {
     //   path.join(process.cwd(), './backup/Product_AttributeOption.json'),
     // );
     Promise.all([
-      AttributeRaw,
+      // AttributeRaw,
       ProductRaw,
-      CategoryRaw,
-      Category_AttributeRaw,
-      AttributeOptionRaw,
-      Category_SpecRaw,
-      SpecRaw,
-      SpecOptionRaw,
-      Product_SpecOptionRaw,
-      OrderRaw,
-      OrderProductRaw,
-      Product_AttributeOptionRaw,
+      // CategoryRaw,
+      // Category_AttributeRaw,
+      // AttributeOptionRaw,
+      // Category_SpecRaw,
+      // SpecRaw,
+      // SpecOptionRaw,
+      // Product_SpecOptionRaw,
+      // OrderRaw,
+      // OrderProductRaw,
+      // Product_AttributeOptionRaw,
     ])
       .then(
         ([
