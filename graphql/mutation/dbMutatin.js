@@ -149,7 +149,7 @@ const importDb = () => {
           OrderProductResault,
           Product_AttributeOptionResault,
         ]) => {
-          // let AttributeData = JSON.parse(AttributeResault);
+          let AttributeData = JSON.parse(AttributeResault);
           let ProductData = JSON.parse(ProductResault);
           // let CategoryData = JSON.parse(CategoryResault);
           // let Category_AttributeData = JSON.parse(Category_AttributeResault);
